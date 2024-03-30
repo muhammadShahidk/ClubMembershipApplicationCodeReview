@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FieldValidatorAPI",
+              "Title": "FieldValidatorAPI.csproj",
               "DocumentMoniker": "F:\\Shahid\\Programming\\DotNet\\CodeToReview\\ClubMembershipApplicationCodeReview\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
               "RelativeDocumentMoniker": "FieldValidatorAPI\\FieldValidatorAPI.csproj",
               "ToolTip": "F:\\Shahid\\Programming\\DotNet\\CodeToReview\\ClubMembershipApplicationCodeReview\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
@@ -40,7 +40,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClubMembershipApplication",
+              "Title": "ClubMembershipApplication.csproj",
               "DocumentMoniker": "F:\\Shahid\\Programming\\DotNet\\CodeToReview\\ClubMembershipApplicationCodeReview\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
               "RelativeDocumentMoniker": "ClubMembershipApplication\\ClubMembershipApplication.csproj",
               "ToolTip": "F:\\Shahid\\Programming\\DotNet\\CodeToReview\\ClubMembershipApplicationCodeReview\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
